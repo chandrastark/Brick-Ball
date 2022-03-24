@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Brick-Ball/static/css/main.1bfa8f21.css",
+    "main.js": "/Brick-Ball/static/js/main.25ac4add.js",
+    "static/js/787.cee44e92.chunk.js": "/Brick-Ball/static/js/787.cee44e92.chunk.js",
+    "index.html": "/Brick-Ball/index.html",
+    "main.1bfa8f21.css.map": "/Brick-Ball/static/css/main.1bfa8f21.css.map",
+    "main.25ac4add.js.map": "/Brick-Ball/static/js/main.25ac4add.js.map",
+    "787.cee44e92.chunk.js.map": "/Brick-Ball/static/js/787.cee44e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfa8f21.css",
+    "static/js/main.25ac4add.js"
+  ]
+}
