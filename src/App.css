@@ -1,0 +1,19 @@
+html{
+  background-color: blanchedalmond;
+  font-size: 10px;
+}
+
+.canvasDiv{
+  background-color: blanchedalmond;
+}
+.title{
+  font-size: 3rem;
+  margin: 2rem 0 2rem 0;
+}
+
+#canvas{
+  background-color: darkslateblue;
+  border: 0.5rem solid black;
+  box-shadow: 2px 2px 2px 2px solid red;
+  
+}
